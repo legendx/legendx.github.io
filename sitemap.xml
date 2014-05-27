@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gooner.me/about/index.html</loc>
+    <lastmod>2014-05-27T09:13:51.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gooner.me/2014/05/26/hello-world/</loc>
     <lastmod>2014-05-27T04:34:39.000Z</lastmod>
   </url>
@@ -9,11 +14,6 @@
   <url>
     <loc>http://gooner.me/img/index.html</loc>
     <lastmod>2014-05-26T09:58:25.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://gooner.me/about/index.html</loc>
-    <lastmod>2014-05-26T08:33:58.000Z</lastmod>
   </url>
   
 </urlset>
